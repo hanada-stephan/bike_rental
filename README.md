@@ -1,6 +1,6 @@
 # Bike rental Analysis: Project Overview
 
-**Tags: neural network, GRU, LSTM, glorot uniform, RMSProp, EDA, Keras, TensorFlow, deep learning, time series**
+**Tags: neural network, GRU, LSTM, deep learning, glorot uniform, RMSProp, EDA, Keras, TensorFlow, deep learning, time series**
 
 This notebook is part of Alura's courses [Deep Learning: previsão com Keras) (Deep Learning: predictions with Keras)](https://cursos.alura.com.br/course/deep-learning-previsao-keras) by Allan Segovia Spadini.
 
